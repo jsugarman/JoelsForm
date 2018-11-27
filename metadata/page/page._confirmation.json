@@ -1,0 +1,13 @@
+{
+  "_id": "page._confirmation",
+  "_type": "page.confirmation",
+  "components": [
+    {
+      "_id": "page._confirmation--table",
+      "_type": "table",
+      "rows": "1\r\n2\r\n3"
+    }
+  ],
+  "heading": "Confirmed",
+  "url": "/confirmation"
+}
