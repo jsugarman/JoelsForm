@@ -1,0 +1,27 @@
+{
+  "_id": "page._how-you-feelin",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page._how-you-feelin--text.auto_name__1",
+      "_type": "text",
+      "hint": "Enter yes/no",
+      "label": "feeling hot?",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page._how-you-feelin--date.auto_name__2",
+      "_type": "date",
+      "label": "Date of birth",
+      "name": "auto_name__2"
+    },
+    {
+      "_id": "page._how-you-feelin--textarea.auto_name__3",
+      "_type": "textarea",
+      "label": "Please describe how you r feelin?",
+      "name": "auto_name__3"
+    }
+  ],
+  "heading": "How you feelin?",
+  "url": "/how-you-feelin"
+}

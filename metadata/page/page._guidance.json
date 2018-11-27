@@ -1,0 +1,18 @@
+{
+  "_id": "page._guidance",
+  "_type": "page.flashcard",
+  "components": [
+    {
+      "_id": "page._guidance--content",
+      "_type": "content",
+      "html": "You do this, then that. bish bash bosh",
+      "show": {
+        "identifier": "auto_name__1",
+        "operator": "match",
+        "value": "[Yy]es"
+      }
+    }
+  ],
+  "heading": "Here is how you fill it in",
+  "url": "/guidance"
+}
